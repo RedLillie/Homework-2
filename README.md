@@ -27,3 +27,5 @@ _Link coming soon_
 1. Install dependencies: `pip install anthropic`
 2. Set your API key: `export ANTHROPIC_API_KEY=your_key_here`
 3. Run the app: `python app.py`
+
+4. Youtube link: https://youtu.be/FDSq6HFp10A
