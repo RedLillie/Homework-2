@@ -1,0 +1,1 @@
+Our invoice approval process requires employees to submit a paper form to their manager. The manager signs it and walks it to the finance department. Finance manually enters it into the accounting system and emails confirmation back. This takes 3-5 business days.
